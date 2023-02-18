@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "plan1",
-    "slug": "plan1",
+    "name": "All in One",
+    "slug": "All in One",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "orientation": "defult",
+    "icon": "./assets/student.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
